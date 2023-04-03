@@ -1,0 +1,10 @@
+.products{
+    /* border: 2px solid saddlebrown;
+    margin: 10px 40px;
+    padding: 10px;
+    border-radius: 15px; */
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}

@@ -1,0 +1,10 @@
+.product{
+    border: 2px solid saddlebrown;
+    margin: 10px 40px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgb(207, 173, 240);
+}
+.product p{
+    font-weight: 600;
+}
